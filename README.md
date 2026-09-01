@@ -8,9 +8,9 @@ The repository contains the following files:
 
 1. code.zip: Source code.
 2. data1.zip–data8.zip: Eight parts of the dataset.
-3. netG_epoch_1_0_0_39.pth: Trained model weights of SC2-GAN.
+3. netG_epoch_1_0_0_29.pth: Trained model weights of SC2-GAN.
 
 Please download and extract data1.zip–data8.zip before running the code.
 After downloading the repository, please extract the source code.
-The trained model is provided as: netG_epoch_1_0_0_39.pth
+The trained model is provided as: netG_epoch_1_0_0_29.pth
 The implementation is based on Python and PyTorch.
