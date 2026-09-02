@@ -7,7 +7,7 @@ SC2-GAN is designed for the restoration of SAR images contaminated by multiple t
 The repository contains the following files:
 
 1. code.zip: Source code.
-2. data1.zip–data8.zip: Eight parts of the dataset.
+2. data1.zip–data7.zip: Seven parts of the dataset.
 3. netG_epoch_1_0_0_29.pth: Trained model weights of SC2-GAN.
 
 Please download and extract data1.zip–data8.zip before running the code.
